@@ -1,0 +1,13 @@
+# Stata logs and SMCL files
+*.log
+*.smcl
+
+# Temporary files
+temp.do
+temp.log
+stata.log
+
+# Generated figures (these should be in tex/figures/)
+*.png
+*.pdf
+*.eps
